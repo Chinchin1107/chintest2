@@ -23,8 +23,8 @@ setup(
   long_description='',
   author = 'Chinchin',                   # Type in your name
   author_email = 'chinchin.anawach@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/Chinchin1107/test',   # Provide either the link to your github or to your website
-  download_url = 'https://codeload.github.com/Chinchin1107/test/zip/refs/heads/master',    # I explain this later on
+  url = 'https://github.com/Chinchin1107/chintest.git',   # Provide either the link to your github or to your website
+  download_url = 'https://codeload.github.com/Chinchin1107/chintest/zip/refs/heads/master    # I explain this later on
   keywords = ['chintest', 'chintest Library'],   # Keywords that define your package best
   install_requires=[],
   classifiers=[
