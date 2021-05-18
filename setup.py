@@ -15,11 +15,11 @@ def get_readme():
 
 
 setup(
-  name = 'chintest',         # How you named your package folder (MyLib)
-  packages = ['chintest'],   # Chose the same as "name"
+  name = 'chintest2',         # How you named your package folder (MyLib)
+  packages = ['chintest2'],   # Chose the same as "name"
   version = '1.0.0',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
-  description = 'testchin Library',   # Give a short description about your library
+  description = 'chintest2 Library',   # Give a short description about your library
   long_description='',
   author = 'Chinchin',                   # Type in your name
   author_email = 'chinchin.anawach@gmail.com',      # Type in your E-Mail
